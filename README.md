@@ -132,6 +132,11 @@ Issues and PRs welcome. Keep the house style: no em-dashes, explain the *why*
 behind an instruction rather than piling on rigid rules, and run the validator
 before you push.
 
+## Author
+
+Built by Grayson Valashinas. Say hi on
+[LinkedIn](https://linkedin.com/in/grayson-valashinas).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
