@@ -26,6 +26,10 @@ the stack, and refuses to call something done until it has been exercised and
 checked against the real code and data. Plausible output is not the goal.
 Output that is true, exercised, and honest about its own limits is.
 
+> **See it catch a real bug:** [plumbline-demo](https://github.com/suprenvb/plumbline-demo)
+> is a 60-second hands-on demo. Clone it, point Claude at it, and watch Plumbline
+> flag three defects that a green status report was hiding.
+
 ## Quickstart
 
 ```bash
