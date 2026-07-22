@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the fullstack-product-partner skill.
+"""Validate the Plumbline skill.
 
 Checks the things a broken skill fails on, so a green run here means the skill
 will actually load and trigger:
